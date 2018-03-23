@@ -1,7 +1,6 @@
 # Introduction
-TODO: We will build a real-world mini social network called GigHub. We will use a lot of tools and techniques involving ASP.NET MVC,
- Web API, Entity Framework Code First, Bootstrap3, HTML5, CSS3, refactoring, clean coding, clean architecture and dependency injection.
- With this project we can increase our knowledge an skills to take a step closer to being a full-stack .NET developer.
+ I build a real-world mini social network application for live music lovers called GigHub, where I improved my front-end and back-end development skills. In this project I used techniques like ASP.NET MVC, Web Api, Entity Framework Code First, Boostrap3, HTML5, CSS3, security, object-oriented-design, clean coding, clean arhitecutre, automated testing, dependency injection and much more. 
+So musicians can sign up and list their upcoming gigs, and their followers can see all the upcoming gigs on the home page or search for them by artist, genre, or location, and then they can add their favorite gigs to their calendar. Once a musician updates or cancels one of their upcoming gigs, users who are attending that gig will see a notification here on the navigation bar when they log in. After that I refactored application towards a clean, decoupled, and testable architecture. Finally I wrote unit and integration tests for various moving parts.
 
 # Getting Started
 TODO: From this project we need to:
@@ -20,18 +19,5 @@ TODO: From this project we need to:
 5. Remove a gig to calendar, Unfollow an artist
 
 # Building a model Using Migrations
- - we use code-first workflow, we need to enable migrations
+ - we use code-first workflow, so we need to enable migrations
 	
-
-
-
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://www.visualstudio.com/en-us/docs/git/create-a-readme). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
